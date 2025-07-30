@@ -1,8 +1,8 @@
-## рыжполсос
+## ryzhpolsos
 
-Ковыряю винду, пишу всякие скриптики да приложения...
+I'm coding some weird stuff for Windows
 
-- Языки программирования: C#, JavaScript, HTML/CSS, PHP, Python, C, PowerShell, Batch, VBS
-- Технологии: Windows API, .NET Framework, Windows Script Host (и кое-что ещё)
-- Редакторы кода: Visual Studio, VS Code, Notepad++
-- ОС: Windows 10 (основная), Ubuntu (сервер)
+- Programming languages: C#, JavaScript, PHP, Python, C, PowerShell, Batch, VBS
+- Technologies: WinAPI, Native API, .NET Framework, Windows Script Host (and more...)
+- Code Editors: Visual Studio, VS Code, Notepad++
+- OS: Windows 10 (desktop), Ubuntu (server)
