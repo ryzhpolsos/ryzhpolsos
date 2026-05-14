@@ -1,8 +1,8 @@
 ## ryzhpolsos
 
-I'm coding some weird stuff for Windows
+I'm coding some weird stuff :3
 
-- Programming languages: C#, JavaScript, PHP, Python, C, PowerShell, Batch, VBS
-- Technologies: WinAPI, Native API, .NET Framework, Windows Script Host (and more...)
-- Code Editors: Visual Studio, VS Code, Notepad++
-- OS: Windows 10 (desktop), Ubuntu (server)
+- Programming languages: C#, C, JavaScript, Perl, PHP, Python, PowerShell, Batch, VBS, Lua, Bash
+- Technologies: .NET, Plack, WinAPI, Windows Native API, Windows Script Host (and more...)
+- Code Editor: Vim
+- OS: Slackware (desktop), Ubuntu (server)
